@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* unvisited link */
+a:link {
+  color: #757a52;
+}
+
+/* visited link */
+a:visited {
+  color: #8C7796;
+}
+
+/* mouse over link*/ 
+a:hover {
+ color: #ddae7e;
+ 
+}
+
+.arrow-cursor {
+ cursor: default;
+}
+
+p {
+  text-aling: left; 
+  font-sixe: 167px; 
+  font-family: PT Mono;
+  margin-left: 20px; 
+  margin-right: 20px;
+}
+
+h3 {
+ text-align: center;
+ font-size: 25px;
+ font-family: PT Mono; 
+}
+div {
+  width: 300px;
+  margin: auto;
+  border: none;
+}
+
+img {
+ margin: 25px; 
+}
+
+
